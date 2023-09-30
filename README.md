@@ -10,6 +10,7 @@ And also a speaker and essayist, passionate about technology, sciences, blockcha
 * 🖥️  See my portfolio at [matissime.eu](http://matissime.eu)
 * ✉️  You can contact me at [hello@matissime.eu](mailto:hello@matissime.eu)
 * 🚀  I'm currently working on my own little data center called Sea-Net.
+* 🔑 PGP Public Key : [0x4A9F214769A7B8DE](https://keys.openpgp.org/vks/v1/by-fingerprint/583E731C8B6F2B26C0DDFFEE4A9F214769A7B8DE)
 
 <br clear="both">
 
